@@ -65,3 +65,4 @@ Sub viewer of 'Event Muting' support filtering events as below:
 - Mute network events by process paths or remote ip addresses
 - Mute process events by allowing or denying binary paths
 1111453
+999999
